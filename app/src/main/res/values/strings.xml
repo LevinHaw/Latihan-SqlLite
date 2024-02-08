@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LatihanSqlLite</string>
+    <string name="hint_nama">Masukkan nama lengkap</string>
+    <string name="title_nama">Nama nasabah</string>
+    <string name="number">No HP</string>
+    <string name="hint_number">Masukkan Nomor HP</string>
+    <string name="hint_email">Masukkan Email</string>
+    <string name="title_email">Email</string>
+</resources>
